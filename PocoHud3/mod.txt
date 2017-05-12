@@ -6,7 +6,7 @@
 	"updates" : [
 		{
 			"revision" : 2,
-			"identifier" : "pocohud3",
+			"identifier" : "pocohud3"
 		}
 	],
 	"persist_scripts" : [
